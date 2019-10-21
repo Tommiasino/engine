@@ -1,0 +1,119 @@
+body{
+    background: black;
+}
+
+
+.document{
+    position: relative;
+    width: 1250px;
+    height: 1250px;
+    background: black;
+    z-index: 1;
+
+
+}
+.picture{
+    position: fixed;
+    display: block;
+    margin-left: 225px;
+    width: 50%;
+    z-index: 2;
+    opacity: 0.09;
+}
+
+.nazev {
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 75px;
+    color:  white;
+    margin-left: 410px;
+    z-index: 4;
+}
+
+.autor {
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 130px;
+}
+.zajimavosti {
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 170px;
+}
+.zajimavostiS{
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 170px;
+    margin-top: 210px;
+
+}.vlastnosti {
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 330px;
+}
+
+.vlastnostiS{
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 170px;
+    margin-top: 370px;
+
+}
+
+.vydan{
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 500px;
+
+
+}
+.script{
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 540px;
+}
+.platform{
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 580px;
+}
+.games{
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-top: 620px;
+}
+.gamesS{
+    color:  white;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 170px;
+    margin-top: 660px;
+    
+    
+}
